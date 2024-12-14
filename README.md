@@ -8,3 +8,5 @@ This project involved creating a custom character-special device driver in Minix
 - State Management: Ensuring that /dev/Secret preserves its state across live updates.
 
 This project showcased an in-depth understanding of how device drivers work in an operating system, emphasizing secure data handling, user-kernel interactions, and system-level debugging. The driver provided a practical implementation of OS-level file operations while maintaining security and resource management principles.
+
+A more in-depth explanation of the project and testing can be found in the lab report here: https://docs.google.com/document/d/1JPpXwwRBndVwGFNhlyhaq6_eC9-RyGol8r0vXvQs5Lc/edit?usp=sharing
